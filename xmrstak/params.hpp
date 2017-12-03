@@ -36,7 +36,7 @@ struct params
 	std::string configFileCPU;
 
 	params() :
-		binaryName("xmr-stak"),
+		binaryName("xmr-miner"),
 		executablePrefix(""),
 		useAMD(true),
 		useNVIDIA(true),
